@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Medical Tests Table</title>
+	<style>
+		table {
+			border-collapse: collapse;
+		}
+		th, td {
+			border: 1px solid #ddd;
+			padding: 8px;
+			text-align: left;
+		}
+	</style>
+</head>
+<body>
+	<h1>Medical Tests Table</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>Test</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Complete Blood Count (CBC)</td>
+				<td>$10</td>
+			</tr>
+			<tr>
+				<td>Blood Chemistry Panel</td>
+				<td>$20</td>
+			</tr>
+			<tr>
+				<td>Lipid Profile</td>
+				<td>$15</td>
+			</tr>
+			<tr>
+				<td>Glucose Test</td>
+				<td>$5</td>
+			</tr>
+			<tr>
+				<td>Urinalysis</td>
+				<td>$10</td>
+			</tr>
+			<tr>
+				<td>Stool Test</td>
+				<td>$15</td>
+			</tr>
+			<tr>
+				<td>Pregnancy Test</td>
+				<td>$10</td>
+			</tr>
+			<tr>
+				<td>HIV Test</td>
+				<td>$20</td>
+			</tr>
+			<tr>
+				<td>Hepatitis Test</td>
+				<td>$25</td>
+			</tr>
+			<tr>
+				<td>Thyroid Function Test</td>
+				<td>$30</td>
+			</tr>
+			<tr>
+				<td>Electrolyte Panel</td>
+				<td>$20</td>
+			</tr>
+			<tr>
+				<td>Kidney Function Test</td>
+				<td>$25</td>
+			</tr>
+			<tr>
+				<td>Liver Function Test</td>
+				<td>$30</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
